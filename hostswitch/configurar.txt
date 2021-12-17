@@ -1,0 +1,13 @@
+#MODO DE CONFIGURAR:
+#mkdir $HOME/bin
+#export PATH=$PATH:$HOME/bin
+#sudo mv hostswitch.sh /$HOME/bin/
+#nano /$HOME/.bashrc
+#copiar e colar o seguinte comando com os outros alias:
+#alias hsw='hostswitch.sh'
+#feche o bashrc
+#no terminal, digite: 
+#source ~/.bashrc
+
+#MODO DE USAR:
+#digite hsw
